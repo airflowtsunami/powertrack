@@ -2,6 +2,8 @@
 
 A two-rider, 1990s-style velodrome racing game built with Python and Pygame. Rider speed is controlled entirely by live ANT+ power data, with optional ANT+ FE-C trainer resistance control.
 
+![PowerTrack demo](racegif.gif)
+
 ## Requirements
 
 - Windows 10 or 11
