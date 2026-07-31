@@ -1,0 +1,12 @@
+{
+  "riders": [
+    {
+      "name": "Blue Bolt",
+      "ftp": 250
+    },
+    {
+      "name": "Red Rocket",
+      "ftp": 200
+    }
+  ]
+}
